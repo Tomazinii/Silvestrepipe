@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="327.372" height="138.803" viewBox="0 0 327.372 138.803">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="327.372" height="138.803" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_2" data-name="Retângulo 2" width="152.744" height="138.803" transform="translate(61 46)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Repetição_de_grade_1" data-name="Repetição de grade 1" transform="translate(0)" clip-path="url(#clip-path)">
+    <g transform="translate(-72.628 -41)">
+      <g id="Grupo_de_máscara_1" data-name="Grupo de máscara 1" transform="translate(11.628 -5)" clip-path="url(#clip-path-2)">
+        <g id="logo_silvestre" data-name="logo silvestre" transform="translate(55.784 46)">
+          <path id="Caminho_1" data-name="Caminho 1" d="M346.483,259.606" transform="translate(-334.873 -187.874)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.684"/>
+          <path id="Caminho_2" data-name="Caminho 2" d="M327.329,403.261" transform="translate(-327.329 -244.456)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.684"/>
+          <path id="Caminho_3" data-name="Caminho 3" d="M389.68,178.993l21.561-.415a16.042,16.042,0,0,0,6.634-2.9,15.27,15.27,0,0,0,2.9-2.9c4.279-5.481,13.268-19.264,13.683-19.9a20.918,20.918,0,0,1,7.463-8.707,20.466,20.466,0,0,1,7.049-2.9H469.7a12.539,12.539,0,0,1-.415,24.878l-20.317.415a20.512,20.512,0,0,0-13.683,9.951l-11.2,17.415a19.007,19.007,0,0,1-12.439,9.951l-21.354.207a8.49,8.49,0,0,1-1.451-.207,12.878,12.878,0,0,1,0-24.878" transform="translate(-347.802 -141.261)" fill="#016968"/>
+          <path id="Caminho_4" data-name="Caminho 4" d="M348.637,240.754h46.439a17.452,17.452,0,0,0,12.024-8.707l15.756-23.22a15.209,15.209,0,0,1,4.561-3.732,15.6,15.6,0,0,1,9.122-1.659h42.293A13.077,13.077,0,0,1,489.2,213.8c1.02,6.124-2.96,12.514-9.537,14.512l-46.024.415a19.587,19.587,0,0,0-7.049,2.488,20,20,0,0,0-7.463,7.878l-13.268,20.317A15.756,15.756,0,0,1,393,266.046H348.637a12.7,12.7,0,0,1-.415-24.878" transform="translate(-331.637 -165.705)" fill="#016968"/>
+          <path id="Caminho_5" data-name="Caminho 5" d="M390.1,303.494l21.146-.415a19.1,19.1,0,0,0,6.22-2.488,19.678,19.678,0,0,0,7.463-8.707L437.781,272.4a20.862,20.862,0,0,1,4.561-3.732,21.1,21.1,0,0,1,8.707-2.9h18.244a12.655,12.655,0,0,1,.829,24.878l-21.146.415a18.687,18.687,0,0,0-12.024,7.878c-5.175,7.625-8.608,13.766-14.1,21.146a20.86,20.86,0,0,1-5.183,5.183,20.246,20.246,0,0,1-7.671,3.11H390.1a12.655,12.655,0,0,1-.829-24.878" transform="translate(-347.805 -190.299)" fill="#016968"/>
+        </g>
+      </g>
+      <text id="HOSPITAL" transform="translate(236 99)" fill="#15605f" font-size="26" font-family="AmpleSoftPro-Regular, AmpleSoft Pro"><tspan x="0" y="0">HOSPITAL</tspan></text>
+      <text id="SILVESTRE" transform="translate(236 141)" fill="#15605f" stroke="#15605f" stroke-width="1" font-size="36" font-family="AmpleSoftPro-Regular, AmpleSoft Pro"><tspan x="0" y="0">SILVESTRE</tspan></text>
+    </g>
+  </g>
+</svg>
