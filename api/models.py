@@ -4,3 +4,4 @@ from django.db import models
 class Testes(models.Model):
 	name = models.CharField(max_length=50)
 	last_name = models.CharField(max_length=50,default="")
+	kaqui = models.CharField(max_length=50,default="")
